@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDemoSender", "QueueDemoSender.csproj", "{49EEE378-55F1-4791-825F-877AD7E2C424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDemoReceiver", "..\QueueDemoReceiver\QueueDemoReceiver.csproj", "{9DC5FDB9-1446-4A0E-BD9D-FCD6B8B133E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49EEE378-55F1-4791-825F-877AD7E2C424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EEE378-55F1-4791-825F-877AD7E2C424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EEE378-55F1-4791-825F-877AD7E2C424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EEE378-55F1-4791-825F-877AD7E2C424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC5FDB9-1446-4A0E-BD9D-FCD6B8B133E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC5FDB9-1446-4A0E-BD9D-FCD6B8B133E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC5FDB9-1446-4A0E-BD9D-FCD6B8B133E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC5FDB9-1446-4A0E-BD9D-FCD6B8B133E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA26F1E-A827-4577-9EB7-02EF0B128D13}
+	EndGlobalSection
+EndGlobal
